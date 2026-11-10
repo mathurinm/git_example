@@ -2,7 +2,7 @@ import numpy as np
 
 
 def f(a):
-    print(a + 1)
+    print(a + 3)
 
 
 def func2():
